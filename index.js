@@ -84,10 +84,7 @@ document.getElementById('controls').addEventListener('click', function (e) {
    //console.log("List item ", e.target.id.replace("post-", ""), " was clicked")
 
 })
-  // YOUR CODE HERE
-//if click happens change bulb background to red.
-
-
+  
 })();
 
 // "<textContent> bulb on"`
